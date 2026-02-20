@@ -1,9 +1,9 @@
 # ⌛️ Install gitlab runner
 
 ``` bash
-curl -O https://raw.githubusercontent.com/config-devops/Kubesphare-v4.1.3/refs/heads/main/install-kubekey.sh
+curl -O https://raw.githubusercontent.com/config-devops/gitlab-runner-install/refs/heads/main/install-gitlab-runner.sh
 
-chmod +x install-kubekey.sh
+chmod +x install-gitlab-runner.sh
 
-./install-kubekey.sh
+./install-gitlab-runner.sh
 ```
